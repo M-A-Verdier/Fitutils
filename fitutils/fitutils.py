@@ -1,8 +1,7 @@
 """
 Linfitxy V0.2.2
-Dev : Marc-Antoine Verdier sur la base de la version Matlab par Julien Browaeys
-et Tristan Beau
-Pour tout bug ou remarque : marc-antoine.verdier@univ-paris-diderot.fr
+Dev: Marc-Antoine Verdier based on the Matlab version made by par Julien
+Browaeys and Tristan Beau: https://github.com/tjbtjbtjb/linfitxy
 """
 import numpy as np
 import numpy.random as rd

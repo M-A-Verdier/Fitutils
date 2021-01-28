@@ -19,7 +19,7 @@ setup(
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: BSD-3-Clause License',
+    'License :: OSI Approved :: BSD 3-Clause "New" or "Revised" License (BSD-3-Clause)',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
